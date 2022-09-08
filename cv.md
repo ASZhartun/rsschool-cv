@@ -45,3 +45,17 @@ function myLanguages(results) {
                 .map(elem => elem[0]);
 }
 ```
+### Experience
+
+- Developed desktop app for civil engineer which automate calculation process
+- Work continue
+
+### Education
+Period		|	Title
+------------|------------
+`2022--NOW`	|	Udemy: HTML/CSS Bootcamp - Learn HTML, CSS, Flexbox, and CSS Grid (15%), The Modern Javascript Bootcamp Course (2022) (35%)
+`2021--2022`	|	Center learning technology, Minsk. Specialization: Java developer
+`2010--2015`	|	Belorussian National Technical University, Minsk. Specialization: bridges, tunnels
+
+### Languages
+English: A2+/B1 (end it-english intensive of overone)
