@@ -1,2 +1,2 @@
 # rsschool-cv
-task #1, create cv
+https://github.com/ASZhartun/rsschool-cv/blob/gh-pages/cv.md
