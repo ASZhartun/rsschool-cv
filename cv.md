@@ -1,3 +1,4 @@
+![photo](https://media-exp1.licdn.com/dms/image/C5603AQFX-Zt5jsLnWw/profile-displayphoto-shrink_800_800/0/1641145874697?e=1668038400&v=beta&t=3x8x3QE5umQ16e17dWNTpc-ADREovly2cHPhgxcVCxc)
 ## Anatoliy Zhartun
 ### Junior Javascript Developer
 
