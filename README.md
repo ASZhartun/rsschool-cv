@@ -1,2 +1,2 @@
 # rsschool-cv
-task #1, create cv
+https://aszhartun.github.io/rsschool-cv/
